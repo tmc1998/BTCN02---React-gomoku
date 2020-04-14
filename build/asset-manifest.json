@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BTCN02---React-gomoku/static/css/main.827d1438.chunk.css",
+    "main.js": "/BTCN02---React-gomoku/static/js/main.d3311deb.chunk.js",
+    "main.js.map": "/BTCN02---React-gomoku/static/js/main.d3311deb.chunk.js.map",
+    "runtime-main.js": "/BTCN02---React-gomoku/static/js/runtime-main.4787a32a.js",
+    "runtime-main.js.map": "/BTCN02---React-gomoku/static/js/runtime-main.4787a32a.js.map",
+    "static/js/2.6273c943.chunk.js": "/BTCN02---React-gomoku/static/js/2.6273c943.chunk.js",
+    "static/js/2.6273c943.chunk.js.map": "/BTCN02---React-gomoku/static/js/2.6273c943.chunk.js.map",
+    "index.html": "/BTCN02---React-gomoku/index.html",
+    "precache-manifest.85661f731e1202e1d73e83afba3e1495.js": "/BTCN02---React-gomoku/precache-manifest.85661f731e1202e1d73e83afba3e1495.js",
+    "service-worker.js": "/BTCN02---React-gomoku/service-worker.js",
+    "static/css/main.827d1438.chunk.css.map": "/BTCN02---React-gomoku/static/css/main.827d1438.chunk.css.map",
+    "static/js/2.6273c943.chunk.js.LICENSE.txt": "/BTCN02---React-gomoku/static/js/2.6273c943.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4787a32a.js",
+    "static/js/2.6273c943.chunk.js",
+    "static/css/main.827d1438.chunk.css",
+    "static/js/main.d3311deb.chunk.js"
+  ]
+}
